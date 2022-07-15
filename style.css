@@ -3,14 +3,13 @@ body {
     height: 100%;
 }
 .title-text{
-    color: white;
-    font-size: 30px;
+    color: aliceblue;
+    font-size: 40px;
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
-    align-items: flex-end;
-    justify-content: end;
-    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
 }
 #mynetwork {
     width: 50%;
